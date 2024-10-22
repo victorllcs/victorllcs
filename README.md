@@ -1,0 +1,8 @@
+- 👋 Olá, me chamo Victor Lucas!!
+  - ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorllcs&show_icons=true&theme=tokyonight)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorllcs&hide_progress=true)
+- 👀 Sou um estudante de programação, que se interessa pela parte de back-end
+- 🌱 Atualmente estou empenhado em aprender c# e toda a plataforma .net, além das suas comunicações com bancos de dados
+- 💞️ Estou interessado em ingressar no mercado de trabalho atuando no back-end, tenho grande interesse em ver como funciona a programação dentro do mercado de trabalho! ...
+- 📫 Minhas redes sociais são:  ...
+- ⚡ 
