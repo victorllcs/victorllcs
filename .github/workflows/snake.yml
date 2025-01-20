@@ -14,16 +14,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      # Configura o script da cobrinha
+      # Gera a cobrinha
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
           github_user_name: victorllcs
-          outputs: dist/snake.svg
+          output_path: dist/github-contribution-grid-snake.svg
 
-      # Adiciona a cobrinha no seu README
+      # Publica a cobrinha no GitHub Pages
       - name: Push Snake Animation to GitHub
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: dist
