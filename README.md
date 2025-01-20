@@ -24,3 +24,4 @@ Essas são as linguagens de programação que tenho mais afinidade:
 </a>
 </div>
 
+![Snake animation](https://github.com/victorllcs/victorllcs/blob/output/github-contribution-grid-snake.svg)
