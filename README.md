@@ -2,7 +2,7 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorllcs&hide_progress=true)
   
 Essas são as linguagens de programação que tenho mais afinidade:
-<div style ="display:inline_block""><br>
+<div style ="display:inline_block"><br>
 <img aling="center" alt="Victor-C#" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 <img aling="center" alt="Victor.NET" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
 <img aling="center" alt="Victor-MySQL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
@@ -12,7 +12,7 @@ Essas são as linguagens de programação que tenho mais afinidade:
 
 <p>As minhas redes sociais são:</p>
 
-<div>
+<div style = "display:inline_block">
 <a href="https://www.instagram.com/victor_llcs/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
