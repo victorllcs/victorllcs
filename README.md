@@ -6,7 +6,6 @@ Essas são as linguagens de programação que tenho mais afinidade:
 <img aling="center" alt="Victor-C#" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 <img aling="center" alt="Victor.NET" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
 <img aling="center" alt="Victor-MySQL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-<img aling="center" alt="Victor-Python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
 <img aling="center" alt="Victor-JavaScript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </div>
 
