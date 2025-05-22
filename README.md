@@ -1,4 +1,4 @@
-Olá, me chamo Victor Lucas, tenho 22 anos e sou apaixonado por tecnologia e automóveis, atualmente sou um desenvolvedor back-end em desenvolvimento &#128541!!
+Olá, me chamo Victor Lucas, tenho 22 anos e sou apaixonado por tecnologia e automóveis, atualmente sou um desenvolvedor back-end em desenvolvimento :smile:
 
  ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorllcs&show_icons=true&theme=tokyonight)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorllcs&hide_progress=true)
